@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+table{
+	border:1px solid black;
+	text-align:center;
+	
+}
+td,th{
+	border:1px solid black;
+}
+.firstrow{
+	padding-bottom:30px;
+	padding-top:30px;
+}
+.htmlclass{
+	background-color:black;
+	color:white;
+}
